@@ -1,0 +1,65 @@
+WindowPosition=(200;200)
+ButtonPosition=(240;440)
+Name=Button1
+Color=000 000 255
+Hihlightcolor=255 000 000
+0
+1
+ButtonPosition=(240;370)
+Name=Button2
+Color=255 000 255
+Hihlightcolor=255 225 225
+0 
+2
+ButtonPosition=(240;300)
+Name=Button3
+Color=000 000 255
+Hihlightcolor=255 000 000
+0
+3
+ButtonPosition=(240;300)
+Color=000 000 255
+Name=Button4
+Hihlightcolor=255 000 000
+1 
+4
+ButtonPosition=(240;230)
+Color=000 000 255
+Hihlightcolor=255 000 000
+1 
+5
+ButtonPosition=(240;400)
+Color=000 000 255
+Hihlightcolor=255 000 000
+2 
+6
+ButtonPosition=(240;330)
+Color=000 000 255
+Hihlightcolor=255 000 000
+2 
+7
+ButtonPosition=(240;260)
+Color=000 000 255
+Hihlightcolor=255 000 000
+2 
+8
+ButtonPosition=(240;300)
+Color=000 000 255
+Hihlightcolor=255 000 000
+4 
+9
+ButtonPosition=(240;300)
+Color=000 000 255
+Hihlightcolor=255 000 000
+9 
+10
+ButtonPosition=(240;370)
+Color=000 000 255
+Hihlightcolor=255 000 000
+9 
+11
+ButtonPosition=(240;320)
+Color=000 000 255
+Hihlightcolor=255 000 255
+11 
+12
